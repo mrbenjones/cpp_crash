@@ -1,3 +1,5 @@
+# Cmake artifacts
+cmake-build-debug
 # Prerequisites
 *.d
 
